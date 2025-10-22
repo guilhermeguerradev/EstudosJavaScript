@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- linka o JS empacotado pelo Webpack -->
+    <script src="main.bundle.min.js" defer></script>
+
+    <!-- linka o CSS gerado pelo MiniCssExtractPlugin -->
+    <link rel="stylesheet" href="main.bundle.min.css">
+</head>
+<body>
+    <h1>Hello world</h1>
+
+    <!-- Corrigido: aspas dentro do onclick estavam incorretas -->
+    <button id="button" onclick="hello()">Clique aqui</button>
+</body>
+</html>
