@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "id": "f974",
+      "name": "Salario",
+      "amount": 15000
+    },
+    {
+      "id": "dd78",
+      "name": "Aluguel",
+      "amount": -1500
+    },
+    {
+      "id": "fcd8",
+      "name": "Pizza",
+      "amount": -100
+    },
+    {
+      "id": "8abb",
+      "name": "Freela",
+      "amount": 1000
+    }
+  ]
+}
