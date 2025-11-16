@@ -12,11 +12,11 @@ organização de layout responsivo.
 Este exercício teve como foco:
 
 -   Aprender a **estruturação de layouts** utilizando **Bootstrap
-    Grid**.\
+    Grid**.
 -   Praticar **componentização** e **estilização personalizada** com
-    **Sass**.\
--   Criar uma interface moderna inspirada em redes sociais.\
--   Trabalhar com **ícones do Bootstrap Icons**.\
+    **Sass**.
+-   Criar uma interface moderna inspirada em redes sociais.
+-   Trabalhar com **ícones do Bootstrap Icons**.
 -   Entender como separar estilos em **arquitetura Sass** e compilar
     para CSS final.
 
@@ -24,16 +24,16 @@ Este exercício teve como foco:
 
 ### **Bootstrap 5**
 
-Usado para: - Grid responsivo\
-- Cards\
-- Botões e ícones\
+Usado para: - Grid responsivo
+- Cards
+- Botões e ícones
 - Componentes utilitários
 
 ### **Sass (SCSS)**
 
-Usado para: - Variáveis de cores e espaçamentos\
-- Organização modular (`_variables.scss`, `_bootstrap.scss`, etc.)\
-- Estilos customizados acima do Bootstrap\
+Usado para: - Variáveis de cores e espaçamentos
+- Organização modular (`_variables.scss`, `_bootstrap.scss`, etc.)
+- Estilos customizados acima do Bootstrap
 - Melhor manutenção e reaproveitamento de código
 
 
@@ -41,20 +41,20 @@ Usado para: - Variáveis de cores e espaçamentos\
 
 A página simula uma home de feed social com:
 
--   Navegação lateral\
--   Campo de postagem\
--   Cards de posts\
--   Ações (Curtir, Comentar, Compartilhar)\
--   Trends/hashtags\
+-   Navegação lateral
+-   Campo de postagem
+-   Cards de posts
+-   Ações (Curtir, Comentar, Compartilhar)
+-   Trends/hashtags
 -   Imagem lateral ilustrativa
 
 
 ## 📚 Aprendizados Obtidos
 
-✔ Bootstrap Grid\
-✔ Sobrescrita de estilos com Sass\
-✔ Modularização SCSS\
-✔ Geração de CSS compilado\
+✔ Bootstrap Grid
+✔ Sobrescrita de estilos com Sass
+✔ Modularização SCSS
+✔ Geração de CSS compilado
 ✔ Consistência visual em UI
 
 
