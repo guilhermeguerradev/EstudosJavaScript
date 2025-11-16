@@ -1,0 +1,11 @@
+@import 'bootstrap';
+
+
+.btn-reactions {
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: var(--#{$prefix}body-bg);
+    }
+}
